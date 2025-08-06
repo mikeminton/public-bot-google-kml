@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>WGS84: 52.721405,-2.487215; BNG: 367189,313862</name>
+    <Point>
+      <coordinates>-2.487215,52.721405,0</coordinates>
+    </Point>
+  </Placemark>
+</kml>
